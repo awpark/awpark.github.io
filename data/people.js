@@ -27,7 +27,7 @@ window.MEMBERS = [
   },
   {
     name: "Kane Moser",
-    role: "PhD student",
+    role: "PhD student, Ecology",
     photo: "kane-moser.jpg",
     bio: "Kane combines empirical and theoretical approaches to understand the ecology of emerging infectious diseases at different scales. Their work focuses on the threats emerging fungal pathogens pose to animal, human and ecosystem health, and on how thermal tolerance, host\u2013parasite interactions and climate change drive fungal disease emergence.",
     links: [
