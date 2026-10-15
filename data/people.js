@@ -48,7 +48,7 @@ window.MEMBERS = [
   {
     name: "Samarth Mohan",
     role: "Undergraduate researcher",
-    photo: "samarth-mohan.png",
+    photo: "samarth-mohan.jpg",
     bio: "Samarth is analyzing how the rate of emergence of drug resistance depends on pathogen species, drug class, animal host species and country.",
     links: []
   }
